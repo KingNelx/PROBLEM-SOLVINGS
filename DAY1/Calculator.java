@@ -28,6 +28,7 @@ public class Calculator {
         System.out.println(" Result for multiplying: " + mul);
         System.out.println(" Result for dividing: " + div);
 
+        input.close();
     }
 }
 
